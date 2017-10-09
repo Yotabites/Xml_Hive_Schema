@@ -1,6 +1,6 @@
 # Xml_Hive_Schema
 
-Xml_Hive_Schema is a tool to create a hql file from XML file with it's attribute and element names as column name. It also points to the hbase table where the XML data data presents.
+Xml_Hive_Schema is a tool to create a hql file from XML file with it's attribute and element names as column name. It also points to the hbase table where the XML data presents.
 
 ### Steps to Create jar: ###
 
